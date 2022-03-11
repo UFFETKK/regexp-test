@@ -2,6 +2,8 @@
 
 정규식, Regular Expression
 
+https://curryyou.tistory.com/234
+
 ## 역할
 
 - 문자검색(search)
